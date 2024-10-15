@@ -26,7 +26,7 @@ Ensure the following are installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rebuff.git
+    git clone https://github.com/ari-vedant-jain/rebuff.git
     cd rebuff
     ```
 

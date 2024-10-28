@@ -204,5 +204,3 @@ For a full list of dependencies, refer to the `pyproject.toml` file.
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This **README.md** emphasizes that this is a **fork** of the original **Rebuff** and introduces the new features such as local **Ollama** and **ChromaDB** support, while maintaining the option for using **Pinecone** and **OpenAI** models.
